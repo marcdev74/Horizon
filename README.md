@@ -1,2 +1,2 @@
 # Horizon
-Basic ERP
+Basic ERP base on Safe Framework
